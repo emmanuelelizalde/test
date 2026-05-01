@@ -46,7 +46,7 @@ function InventoryDashboard() {
   function handleSubmit(e) {
     e.preventDefault();
 
-    fetch("http://localhost:4000/inventory", {
+    fetch("https://test-7nuu.onrender.com/inventory", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
