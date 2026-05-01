@@ -1,0 +1,9 @@
+{
+  "scene_id": "stm32_03",
+  "predictions": [
+    {
+      "name": "STM32 Microcontroller",
+      "confidence": 0.94
+    }
+  ]
+}

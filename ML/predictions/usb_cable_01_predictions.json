@@ -1,0 +1,9 @@
+{
+  "scene_id": "usb_cable_01",
+  "predictions": [
+    {
+      "name": "USB Cable",
+      "confidence": 0.81
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "scene_id": "soldering_station_01",
+  "predictions": [
+    {
+      "name": "Soldering Station",
+      "confidence": 0.76
+    }
+  ]
+}

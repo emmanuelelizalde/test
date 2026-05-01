@@ -1,0 +1,9 @@
+{
+  "scene_id": "rasberry_pi_01",
+  "predictions": [
+    {
+      "name": "Raspberry Pi",
+      "confidence": 0.96
+    }
+  ]
+}

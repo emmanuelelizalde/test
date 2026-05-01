@@ -1,0 +1,9 @@
+{
+  "scene_id": "arduino_kit_01",
+  "predictions": [
+    {
+      "name": "Arduino Kit",
+      "confidence": 0.76
+    }
+  ]
+}
