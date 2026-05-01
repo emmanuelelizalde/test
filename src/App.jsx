@@ -33,7 +33,7 @@ function InventoryDashboard() {
   ];
 
   function fetchInventory() {
-    fetch("http://localhost:4000/inventory")
+    fetch("https://test-7nuu.onrender.com/inventory")
       .then((res) => res.json())
       .then((data) => setInventory(data))
       .catch((error) => console.error("Fetch error:", error));
